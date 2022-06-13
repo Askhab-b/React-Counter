@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 11% 0;
+}
+
+.footerText {
+    color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.intocodeText {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: rgba(0, 0, 0, 0.5);
+}

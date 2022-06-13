@@ -1,0 +1,57 @@
+.null {
+  font-size: 15em;
+  display: flex;
+  justify-content: center;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 288px;
+  line-height: 339px;
+
+  text-align: center;
+
+  color: #f27c0f;
+
+  padding: 3%;
+}
+
+.buttonsBlock {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+.buttonBlue {
+
+  width: 200px;
+  height: 58px;
+  left: 365px;
+  top: 481px;
+
+  background: #003399;
+  border-radius: 4px;
+  font-size: 1.5em;
+  color: #FFFFFF;
+}
+.buttonOrange {
+
+  width: 200px;
+  height: 58px;
+  left: 620px;
+  top: 481px;
+
+  background: #f27c0f;
+  border-radius: 4px;
+  font-size: 1.5em;
+  color: #FFFFFF;
+}
+.buttonGrey {
+  
+  width: 200px;
+  height: 58px;
+  left: 875px;
+  top: 481px;
+
+  background: #e5e5e5;
+  border-radius: 4px;
+  font-size: 1.5em;
+}
